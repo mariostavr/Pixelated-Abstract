@@ -1,3 +1,3 @@
 # Pixelated-Abstract
 
-Generating randomly tiles.
+Generating randomly tiles of your own preferences.
