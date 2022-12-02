@@ -14,8 +14,6 @@ you have the option to see the available colors.
 <img src="https://raw.githubusercontent.com/mariostavr/Pixelated_Abstract/main/Walkthrough/color_names.png" width="50%" height="50%"/>
 2-b. Choose colors (Method B: Choose)
 With method B, you are able to choose one of the color combinations that already exists.<br/>
-<img src="https://raw.githubusercontent.com/mariostavr/Pixelated_Abstract/main/Walkthrough/palette.PNG" height="50%"/><br/>
-For this example we chose "Purples"
-
+<img src="https://raw.githubusercontent.com/mariostavr/Pixelated_Abstract/main/Walkthrough/palette.PNG" height="50%"/>
 
 
